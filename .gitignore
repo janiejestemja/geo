@@ -1,0 +1,7 @@
+/.venv/
+/.ipynb_checkpoints/
+/data/
+*.png
+*build/
+*dist/
+*.egg-info/

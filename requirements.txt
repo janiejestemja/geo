@@ -1,0 +1,7 @@
+numpy
+pandas
+matplotlib
+seaborn
+geopandas
+geodatasets
+scikit-learn
